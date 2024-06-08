@@ -13,8 +13,8 @@ HELP_STRING = (
 HELP_BUTTONS = [
     [Button.inline("• ꜱᴘᴀᴍ •", data="spam"), Button.inline("• ʀᴀɪᴅ •", data="raid")],
     [Button.inline("• ᴇxᴛʀᴀ •", data="extra")],
-    [Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/JARVIS_V_SUPPORT"),
-     Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Dora_Hub")]
+    [Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ll_DRAGON_XD_SUPPORT_ll"),
+     Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ll_DRAGON_XD_SUPPORT_ll")]
 ]
 
 EXTRA_MSG = (
