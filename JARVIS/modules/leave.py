@@ -1,5 +1,4 @@
-## Copy Paster Must Give Credit...
-## @JARVIS_V2
+
 
 from config import X1, SUDO_USERS, CMD_HNDLR as hl
 from telethon import events
@@ -15,7 +14,7 @@ async def leave_group(event, group_id):
 async def leave(e):
     if e.sender_id in SUDO_USERS:
         if len(e.text) > 7:
-            event = await e.reply("» ʟᴇᴀᴠɪɴɢ ᴛʜᴇ ɢʀᴏᴜᴘ...")
+            event = await e.reply("» JAA RAHA HU RANDI KE...")
             mkl = e.text.split(" ", 1)
             await leave_group(event, mkl[1])
         else:
