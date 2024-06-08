@@ -8,8 +8,8 @@ from config import X1
 START_BUTTON = [
     [Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/JARVIS_V_SUPPORT"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Dora_Hub")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ll_DRAGON_XD_SUPPORT_ll"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ll_DRAGON_XD_SUPPORT_ll")
     ],
     [Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/SOLO-X-SPAM")]
 ]
