@@ -29,7 +29,7 @@ def create_start_text(bot_name, bot_id, sender_name, sender_id):
         f"**ʜᴇʏ​ [{sender_name}](tg://user?id={sender_id}),\n\n"
         f"ɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n"
         "━━━━━━━━━━━━━━━━━━━\n\n"
-        f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [JARVIS](https://t.me/JARVIS_V2)**\n\n"
+        f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [JARVIS](https://t.me/ll_DRAGON_XD_ll)**\n\n"
         f"» **ᴊᴀʀᴠɪs V2 :** `{JARVIS_VERSION}`\n"
         f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{PYTHON_VERSION}`\n"
         f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n"
